@@ -43,3 +43,6 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 20.(19.test avant revert commit a été effacé suite à mon revert commiyt! mais l historique est là pour le voir)
 
 21.j'ai fait un drop commit qui a suppr mon dernier commit, et il n'y en a aucune trace dans l historique (donc aucun moyen de savoir ce que javais ecris avant le drop du coup, c perdu)
+
+22.si je veux jsute garder une version à un moment T (garage1 ici), suffit de cereer une branche en lui donnant un nom (ckeck out automatique)
+puis je reviens à ma branche principale main (checkout) et je continue mon projet
