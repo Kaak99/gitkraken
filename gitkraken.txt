@@ -48,3 +48,4 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 
 24. je reteste le truc de base : dev une fonctin puis merge
 24b:fin
+25.et je poursiuis!
