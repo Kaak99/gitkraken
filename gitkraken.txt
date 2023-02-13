@@ -3,3 +3,5 @@
 2.j'ai créé un branche fonctionnalité1 et je vais dev func1
 
 3.jai checkout sur mon main pour poursuivre mon main
+2.j'ai créé un branche fonctionnalité1 et je vais dev func1
+je dev encore func1-projet func1 fini!
