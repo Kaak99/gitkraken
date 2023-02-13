@@ -25,3 +25,5 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 (et les historiques sont mis bout à bout)
 
 10.javance sur func3
+11.func3: fini (main n'a pas bougé pendant ce temps)
+
