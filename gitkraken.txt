@@ -47,3 +47,4 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 23.je contiune mon projet en laissant ma version garage1 derriere moii
 
 24. je reteste le truc de base : dev une fonctin puis merge
+24b:fin
