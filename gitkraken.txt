@@ -40,5 +40,3 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 
 18.je peux plus etre sur la branche main donc je recree une branch main2 (si j'essaye main, c refusé puisque existe deja... mais jai peut pt etre modifié et finelement recup main)
 
-19.test avant revert commit
-
