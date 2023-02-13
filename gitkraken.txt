@@ -41,3 +41,5 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 18.je peux plus etre sur la branche main donc je recree une branch main2 (si j'essaye main, c refusé puisque existe deja... mais jai peut pt etre modifié et finelement recup main)
 
 20.(19.test avant revert commit a été effacé suite à mon revert commiyt! mais l historique est là pour le voir)
+
+21.j'ai fait un drop commit qui a suppr mon dernier commit, et il n'y en a aucune trace dans l historique (donc aucun moyen de savoir ce que javais ecris avant le drop du coup, c perdu)
