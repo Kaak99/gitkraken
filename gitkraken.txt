@@ -12,3 +12,4 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 5.je dev mes func2
 
 6.pdt ce temps mon main evolue
+7.j'acance et fini func2
