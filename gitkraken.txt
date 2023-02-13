@@ -43,3 +43,5 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 20.(19.test avant revert commit a été effacé suite à mon revert commiyt! mais l historique est là pour le voir)
 
 21.j'ai fait un drop commit qui a suppr mon dernier commit, et il n'y en a aucune trace dans l historique (donc aucun moyen de savoir ce que javais ecris avant le drop du coup, c perdu)
+
+23.je contiune mon projet en laissant ma version garage1 derriere moii
