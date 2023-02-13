@@ -5,3 +5,7 @@
 3.jai checkout sur mon main pour poursuivre mon main
 2.j'ai créé un branche fonctionnalité1 et je vais dev func1
 je dev encore func1-projet func1 fini!
+
+4.apres merge: comme javais avancé sur mon main pendant que javancais sur func1, ca maffiche une alerte pour merger (idem pour rebase)
+car conflit : mes 2 versions sont dufferentes, que faut il garder?
+j'ai du à la main selectionner ce que je gardais dans version finale et valider
