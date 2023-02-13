@@ -27,3 +27,6 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 10.javance sur func3
 11.func3: fini (main n'a pas bougé pendant ce temps)
 12.jai fazit un merge func3 vers func2(qui remplacait mon main en fait-faut bien rester sur la new branche en dev et click droit sur main pour relier) et pas de souci puisque mon "main" (func2) avait pas bougé
+
+13.continue main (func3, car jai mal proceder: faut donc se metttre sur main=checkout main puis faire
+mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
