@@ -52,3 +52,9 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 
 26. je reteste le truc de base : dev une fonctin puis rebase
 26b:fin
+
+27. et je poursuis
+dans les 2 acs jai bien fait checkout main puis merge/rebase fonction (click droit dessus)
+l'aspect final est bien different dans les 2
+les conflits n'apparaissent (et semblent identiques dans les 2 cas) que si on a touché à notre main entre temps
+(et là faut resoudre à la main pour dire ce quon garde)
