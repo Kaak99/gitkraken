@@ -1,1 +1,5 @@
-bonjour
+1.bonjour
+
+2.j'ai créé un branche fonctionnalité1 et je vais dev func1
+
+3.jai checkout sur mon main pour poursuivre mon main
