@@ -45,3 +45,6 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 21.j'ai fait un drop commit qui a suppr mon dernier commit, et il n'y en a aucune trace dans l historique (donc aucun moyen de savoir ce que javais ecris avant le drop du coup, c perdu)
 
 23.je contiune mon projet en laissant ma version garage1 derriere moii
+
+24. je reteste le truc de base : dev une fonctin puis merge
+24b:fin
