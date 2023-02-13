@@ -13,3 +13,8 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 
 6.pdt ce temps mon main evolue
 7.j'acance et fini func2
+ 
+8.j'ai fini le rebase, apres avoir geré le meme probleme qu'avec merge : 
+ comme javais avancé sur mon main pendant que javancais sur func2, ca maffiche une alerte pour rebase
+car conflit : mes 2 versions sont dufferentes, que faut il garder?
+j'ai du à la main selectionner ce que je gardais dans version finale et valider
