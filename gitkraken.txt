@@ -39,3 +39,4 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 17.donc faut bien checkout notre main, puis faire la demande de rebase/merge
 
 18.je peux plus etre sur la branche main donc je recree une branch main2 (si j'essaye main, c refusé puisque existe deja... mais jai peut pt etre modifié et finelement recup main)
+
