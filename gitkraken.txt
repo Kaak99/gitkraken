@@ -18,3 +18,8 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
  comme javais avancé sur mon main pendant que javancais sur func2, ca maffiche une alerte pour rebase
 car conflit : mes 2 versions sont dufferentes, que faut il garder?
 j'ai du à la main selectionner ce que je gardais dans version finale et valider
+
+9.on voit clairement maintenant la diffeence entre merge et rebase : 
+- merge : on voit que 2 versions se rejoignent, et on a l historique des 2
+- rebase : il y a une fusion des 2 versions comem si elels navaient jamais été séparées 
+(et les historiques sont mis bout à bout)
