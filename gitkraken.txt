@@ -51,3 +51,4 @@ mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 25.et je poursiuis!
 
 26. je reteste le truc de base : dev une fonctin puis rebase
+26b:fin
