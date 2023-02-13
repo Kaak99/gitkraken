@@ -32,3 +32,4 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
 
 14.jze poursuis func4 et je le finis
+15.non je fini là func4
