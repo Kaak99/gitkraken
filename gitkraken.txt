@@ -30,3 +30,5 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 
 13.continue main (func3, car jai mal proceder: faut donc se metttre sur main=checkout main puis faire
 mmerge/rebase (clic droit sur branche à merger/rebase pour girkraken)
+
+14.jze poursuis func4 et je le finis
