@@ -23,3 +23,5 @@ j'ai du à la main selectionner ce que je gardais dans version finale et valider
 - merge : on voit que 2 versions se rejoignent, et on a l historique des 2
 - rebase : il y a une fusion des 2 versions comem si elels navaient jamais été séparées 
 (et les historiques sont mis bout à bout)
+
+10.javance sur func3
